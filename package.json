@@ -1,0 +1,16 @@
+{
+  "name": "jasmine-karma",
+  "version": "1.0.0",
+  "description": "jasmine karma practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.1.2",
+    "karma-jasmine": "^1.0.2"
+  }
+}
